@@ -1,2 +1,4 @@
-# uniapp-sms-monitor
+# uniapp监听短信插件
 uniapp监听短信插件，获取短信内容，读取短信
+
+如有需要，请联系，QQ：1020680508
